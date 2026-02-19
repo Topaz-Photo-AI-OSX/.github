@@ -40,12 +40,6 @@ The software operates as standalone application or plugin integrating with Light
 
 ---
 
-<p align="center">
-  <img src="https://macx.ws/uploads/posts/2023-09/topaz-photo-ai_02.jpg" alt="Topaz Photo AI screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Topaz Photo AI OSX excels for AI-powered image enhancement. Noise reduction removes high-ISO grain maintaining detail sharpness where traditional denoisers blur fine details supporting clean low-light photography.
